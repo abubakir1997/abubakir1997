@@ -8,3 +8,6 @@
 abubakir1997/abubakir1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**Certificates**
+- [Programing in Python by Facebook Meta](https://www.coursera.org/account/accomplishments/certificate/82RWRZFG6H97)
